@@ -1,0 +1,14 @@
+{
+    "name": "rizxy/oop-praktikum-7",
+    "description": "Praktikum 7 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "rizxy-c",
+            "email": "rizxycahyadi@gmail.com"
+        }
+    ]
+}
