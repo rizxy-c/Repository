@@ -72,7 +72,7 @@ $member = new Member();
 <td>ID</td>
 <td>NAMA</td>
 <td>ALAMAT</td>
-<td>TANGGAL GABUNG</td>
+<td>TANGGAL JOIN</td>
 </tr>
 
 <?php foreach ($rows as $row) { ?>
